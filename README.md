@@ -4,15 +4,15 @@
 
 ![Synthetic evaluation](docs/figures/evaluation.svg)
 
-![Synthetic evaluation](docs/figures/evaluation.svg)
-
-![Synthetic evaluation](docs/figures/evaluation.svg)
-
-![Synthetic evaluation](docs/figures/evaluation.svg)
-
-![Synthetic evaluation](docs/figures/evaluation.svg)
-
 > **Status:** reproducible synthetic-data, local research/portfolio demonstration. The source requirements mention advanced production services; this implementation does **not** claim real-world validation, 24/7 streaming, clinical use, live cloud hosting or third-party system integration.
+
+## Navigate the project
+
+- [Architecture diagram](docs/architecture.svg)
+- [Project structure](docs/PROJECT_STRUCTURE.md)
+- [Workflow diagram and reproduction](docs/WORKFLOW.md)
+- [Model card and safety limitations](docs/model_card.md)
+- [Data dictionary](docs/data_dictionary.md)
 
 ## Business goal
 Fraud investigation triage; synthetic payment events.
